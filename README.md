@@ -15,10 +15,12 @@ This is a demo repo for Agentic AI which has 3 sub agents works to summarize, qu
 4. to stop and remove the container
 
     to know container id : docker ps
+
     to stop : docker stop <containerid>
+
     to remove : docker rm <containerid>
 
-# /process_query
+# Main Route:   /process_query
 # main agent query params
 ## example 1
 {
@@ -119,5 +121,7 @@ This is a demo repo for Agentic AI which has 3 sub agents works to summarize, qu
 
 
 
-All rights reserved for : udaya bhaskara raju patsamatla
-Email : udaybhaskar.patsamatla@gmail.com
+
+# All rights reserved for : udaya bhaskara raju patsamatla
+
+# Email : udaybhaskar.patsamatla@gmail.com
