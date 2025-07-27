@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain_openai
+langchain_google_genai
+dotenv
+langchain_community
+langchain_tavily
+fastapi
+uvicorn[standard]
+pydantic
+langserve
+sse_starlette
